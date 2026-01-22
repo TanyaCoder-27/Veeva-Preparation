@@ -9,4 +9,5 @@ Test Plans, Sections and Subsections, Milestones, Test Runs.
 **3- TestRail**  
 TestRail Administration, Users and Roles, Customizations, Reporting.
 
-
+**4- TestRail**  
+Test Execution and Management.
